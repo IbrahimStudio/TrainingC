@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636896594 source:c:\users\ibrah.desktop-9u2jm59\documents\unipr\i anno\fondamenti di programmazione\esercizi casa\scacchiera_2punto0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
