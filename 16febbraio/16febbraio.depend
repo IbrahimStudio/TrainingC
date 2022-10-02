@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639770734 source:c:\users\ibrah.desktop-9u2jm59\documents\unipr\i anno\fondamenti di programmazione\simesami\16febbraio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
